@@ -10,3 +10,6 @@ Near is a peer to peer chat application. Our application allows the users to com
 + Our assumption is that the users have a server which is hosted by us. 
 + Server will have a minimum storage of 1TB.
 + Our web application will be implemented in python, javascript, java, xml ,android studio. We use python for backend.
+
+
+Icon made by Freepik from www.flaticon.com
